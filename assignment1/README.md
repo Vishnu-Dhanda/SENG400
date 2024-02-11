@@ -13,7 +13,7 @@ Running:
 docker run -v servervol:/serverdata assignment1:latest
 ```
 
-###Additional Notes
+### Additional Notes
 
 The Python application code is located in the app directory under assignment1. 
 
