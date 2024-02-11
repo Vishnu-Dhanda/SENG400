@@ -14,7 +14,7 @@ docker run -v servervol:/serverdata assignment1:latest
 ```
 ### Method Used
 
-Creation of the volume was done using the command: '''-v servervol:/serverdata'''  This is the volume mounting option. It tells Docker to create a volume named servervol and mount it to the /serverdata directory inside the container. This allows data to persist beyond the container's lifecycle.
+Creation of the volume was done using the command: ```-v servervol:/serverdata```  This is the volume mounting option. It tells Docker to create a volume named servervol and mount it to the /serverdata directory inside the container. This allows data to persist beyond the container's lifecycle.
 
 ### Additional Notes
 
