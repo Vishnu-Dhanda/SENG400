@@ -14,6 +14,7 @@ docker run -v servervol:/serverdata assignment1:latest
 ```
 
 ###Additional Notes
+
 The Python application code is located in the app directory under assignment1. 
 
 The file text_gen.py contains the logic to generate random text data and manage the random.txt file.
